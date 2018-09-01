@@ -1,18 +1,12 @@
 import sys
-from PyQt4 import QtCore, QtGui
-from LoginWindow import LoginWindow
+from PySide2.QtWidgets import QApplication
+from OmeForeAll import MainWindow
 
+app = QApplication(sys.argv)
 
-
-
-
-
-
-app = QtGui.QApplication(sys.argv)
-
-window = LoginWindow();
-window.setupUi()
-window.show()
+# window = LoginWindow();
+OneForeAll = MainWindow()
+OneForeAll.show()
 
 sys.exit(app.exec_())
 
