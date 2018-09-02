@@ -2,39 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28cec302-c9c3-469c-aec8-ee5a0e9112b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ExcelToSql.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainWindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OmeForeAll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OneForeAll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OneForeAll.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QtDatePicker" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QtDatePicker/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Windows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file.qmlc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/run.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/searchBtn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainwindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tableTest.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.qmlc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QtDatePicker/.idea/QtDatePicker.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QtDatePicker/.idea/libraries/R_User_Library.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QtDatePicker/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QtDatePicker/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QtDatePicker/DatePicker.py" beforeDir="false" afterPath="$PROJECT_DIR$/QtDatePicker/DatePicker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QtDatePicker/logo.svg" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OmeForeAll.py" beforeDir="false" afterPath="$PROJECT_DIR$/OmeForAll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneForeAll.py" beforeDir="false" afterPath="$PROJECT_DIR$/OneForAll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneForeAll.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.qml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.qmlc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainwindow.ui" beforeDir="false" afterPath="$PROJECT_DIR$/mainwindow.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainwindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainwindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.qml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.qmlc" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,25 +27,25 @@
     <session id="-1208467231">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cpp" value="2" />
           <entry key="h" value="1" />
-          <entry key="py" value="38" />
+          <entry key="py" value="42" />
           <entry key="qml" value="3" />
         </counts>
       </usages-collector>
@@ -72,19 +53,19 @@
         <counts>
           <entry key="C++" value="3" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="38" />
+          <entry key="Python" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4275" />
+          <entry key="py" value="4618" />
           <entry key="qml" value="266" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="266" />
-          <entry key="Python" value="4275" />
+          <entry key="Python" value="4618" />
         </counts>
       </usages-collector>
     </session>
@@ -117,11 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -129,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Windows.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="277" lean-forward="true" selection-start-line="237" selection-end-line="277" />
+            <state relative-caret-position="1305">
+              <caret line="104" selection-start-line="101" selection-end-line="104" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
                 <marker date="1535828119703" expanded="true" signature="5187:5196" ph="..." />
@@ -140,13 +118,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OneForeAll.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OneForAll.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="202" lean-forward="true" selection-start-line="202" selection-end-line="202" />
+            <state relative-caret-position="4245">
+              <caret line="300" selection-start-line="185" selection-end-line="300" />
               <folding>
                 <element signature="e#199#225#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OmeForAll.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2880">
+              <caret line="224" column="60" selection-start-line="224" selection-start-column="60" selection-end-line="224" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Final.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="239" column="40" selection-start-line="239" selection-start-column="40" selection-end-line="239" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+                <marker date="1535917259339" expanded="true" signature="551:3076" ph="..." />
               </folding>
             </state>
           </provider>
@@ -172,12 +172,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Name</find>
-      <find>QtGui.</find>
-      <find>self.centralwidget = QWidget(MainWind</find>
-      <find>setCentralWidget(self.centralwidget)</find>
-      <find>statusbar = QStatusBar(</find>
-      <find>setStatusBar(self.statusbar)</find>
       <find>self.retranslateUi(</find>
       <find>def retranslateUi(self</find>
       <find>MainWindow.setWindowTitle(_translate(&quot;MainWindow&quot;, &quot;MainWindow&quot;, None))</find>
@@ -202,9 +196,14 @@
       <find>set</find>
       <find>setupUi</find>
       <find>S</find>
+      <find>self.excelLabel</find>
+      <find>self.excelBtn.</find>
+      <find>gridLayout_2</find>
+      <find>QtGui</find>
+      <find>QtWidgets.QPixmap</find>
+      <find>QLabel</find>
     </findStrings>
     <replaceStrings>
-      <replace>QtWidgets</replace>
       <replace>Click</replace>
       <replace>self.excelFileName</replace>
       <replace>self.sqlFileName</replace>
@@ -215,6 +214,9 @@
       <replace>nn</replace>
       <replace>Sheet2</replace>
       <replace>self</replace>
+      <replace>gridLayout_3</replace>
+      <replace>QtWidgets</replace>
+      <replace>QtGui.QPixmap</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -231,9 +233,12 @@
         <option value="$PROJECT_DIR$/QtDatePicker/DatePicker.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Windows.py" />
-        <option value="$PROJECT_DIR$/OmeForeAll.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/OneForeAll.py" />
+        <option value="$PROJECT_DIR$/OmeForeAll.py" />
+        <option value="$PROJECT_DIR$/OneForAll.py" />
+        <option value="$PROJECT_DIR$/OmeForAll.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/Final.py" />
       </list>
     </option>
   </component>
@@ -302,7 +307,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OmeForeAll.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OmeForAll.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -427,13 +432,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48979592" visible="true" weight="0.2574335" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48979592" visible="true" weight="0.25039124" />
       <window_info id="Structure" order="1" sideWeight="0.5102041" side_tool="true" weight="0.24960877" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36672053" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36672053" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3990307" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -477,13 +483,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mainwindow.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mainwindow.cpp" />
     <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1247971764/PySide2/QtCore/Qt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -512,9 +512,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mainwindow.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mainwindow.h" />
     <entry file="file://$PROJECT_DIR$/MainWindow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -529,20 +527,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.qml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="271" column="47" selection-start-line="271" selection-start-column="47" selection-end-line="271" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp" />
+    <entry file="file://$PROJECT_DIR$/test.qml" />
     <entry file="file:///usr/local/lib/python3.5/dist-packages/xlrd/book.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -578,9 +564,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QtDatePicker/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/QtDatePicker/__init__.py" />
     <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1247971764/PySide2/QtCore/Signal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -595,10 +579,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OmeForeAll.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1506">
-          <caret line="78" column="21" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="21" />
+        <state relative-caret-position="285">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.qml" />
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/io/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
         </state>
       </provider>
     </entry>
@@ -612,23 +604,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1535788751943" expanded="true" signature="301:302" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/QtDatePicker/example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="e#0#64#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Windows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="104" selection-start-line="101" selection-end-line="104" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <marker date="1535828119703" expanded="true" signature="5187:5196" ph="..." />
+            <marker date="1535828119703" expanded="true" signature="6871:6879" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OneForAll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4245">
+          <caret line="300" selection-start-line="185" selection-end-line="300" />
+          <folding>
+            <element signature="e#199#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OmeForAll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="224" column="60" selection-start-line="224" selection-start-column="60" selection-end-line="224" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -639,41 +656,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file.qml">
+    <entry file="file://$PROJECT_DIR$/Final.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Windows.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="277" lean-forward="true" selection-start-line="237" selection-end-line="277" />
+        <state relative-caret-position="157">
+          <caret line="239" column="40" selection-start-line="239" selection-start-column="40" selection-end-line="239" selection-end-column="40" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-            <marker date="1535828119703" expanded="true" signature="5187:5196" ph="..." />
-            <marker date="1535828119703" expanded="true" signature="6871:6879" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OneForeAll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="202" lean-forward="true" selection-start-line="202" selection-end-line="202" />
-          <folding>
-            <element signature="e#199#225#0" expanded="true" />
+            <marker date="1535917259339" expanded="true" signature="551:3076" ph="..." />
           </folding>
         </state>
       </provider>
